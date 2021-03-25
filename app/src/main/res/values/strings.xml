@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="et_text">Enter amount</string>
+    <string name="at_hint">Input text</string>
+    <string name="p_text">%15</string>
+    <string name="tip_text">Tip</string>
+    <string name="total_text">Total</string>
+</resources>
